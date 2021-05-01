@@ -1,0 +1,39 @@
+[1;31m
+Start test 1[0m
+Input command: > start
+Bad parameters!
+Input command: > start easy
+Bad parameters!
+Input command: > exit
+[1;31m
+Start test 2[0m
+!Input command: > start user easy
+---------
+|       |
+|       |
+|       |
+---------
+Enter the coordinates: > 2 2
+---------
+|       |
+|   X   |
+|       |
+---------
+Making move level "easy"
+---------
+|       |
+| O X   |
+|       |
+---------
+Enter the coordinates: > 1 1
+---------
+|       |
+| O X   |
+| X     |
+---------
+Making move level "easy"
+---------
+|       |
+| O X O |
+| X     |
+---------
