@@ -19,6 +19,7 @@ Whether you want to play with a friend or take a break and watch computers battl
 
 - [Stage 4/5: Signs of intelligence](https://hyperskill.org/projects/81/stages/450/implement)
 Let’s create a medium difficulty level. This AI should be a lot harder to beat! Are you up to the challenge?
+
 TODO:
 - [Stage 5/5: An undefeated champion](https://hyperskill.org/projects/81/stages/451/implement)
 Oh no, what have we created here? An unbeatable AI monster! Indeed, this complex algorithm guarantees a win or a draw.
